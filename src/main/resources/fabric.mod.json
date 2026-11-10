@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "christmasland",
+  "version": "${version}",
+  "name": "Christmasland",
+  "description": "Adds the Christmasland dimension (snow biome only). Enter it through a portal built from ice blocks and lit with flint and steel.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "de.christmasland.ChristmaslandMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": ">=26.3- <26.4",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

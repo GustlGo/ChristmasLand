@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "christmasland:block/ice_portal_x" },
+    "axis=z": { "model": "christmasland:block/ice_portal_z" }
+  }
+}
